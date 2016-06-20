@@ -1,5 +1,8 @@
-Diversity Statement
--------------------
++++
+date = "2016-06-19T21:25:01-07:00"
+title = "Diversity Statement"
+
++++
 
 (Adapted from the [Open Source Feels Diversity Statement](http://www.osfeels.com/diversity/)\)
 

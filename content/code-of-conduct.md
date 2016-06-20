@@ -1,5 +1,8 @@
-Code of Conduct
----------------
++++
+date = "2016-06-19T21:25:01-07:00"
+title = "Code of Conduct"
+
++++
 
 (Adapted from the [Open Source Feels Code of Conduct](http://www.osfeels.com/conduct/)\)
 
