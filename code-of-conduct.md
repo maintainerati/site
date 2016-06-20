@@ -1,7 +1,7 @@
 Code of Conduct
 ---------------
 
-This was so kindly made by [osfeels](http://www.osfeels.com/conduct/) and we are reusing it because it is so awesome.
+(Adapted from the [Open Source Feels Code of Conduct](http://www.osfeels.com/conduct/)\)
 
 Short Version
 -------------
