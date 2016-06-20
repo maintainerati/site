@@ -1,38 +1,133 @@
-Please read the anti-harassment policy and code of conduct following the important contact information:
+Code of Conduct
+---------------
 
+This was so kindly made by [osfeels](http://www.osfeels.com/conduct/) and we are reusing it because it is so awesome.
 
-* Local law enforcement: New York City Police - call 911</li>
-* Sexual assault hotlines: NYC Alliance Against Sexual Assault: (212) 229-0345</li>
-* Medical Emergency: Call 911</li>
-* Local car services: Carmel Car and Limo Service (212) 666-6666; Dial 7 Car and Limo Service (212) 777-7777</li>
-* WONTFIX Cabal Organizers: [<a href="mailto:organizers@maintainerati.org">organizers@maintainerati.org</a>]</li>
+Short Version
+-------------
 
-## ANTI-HARASSMENT POLICY
+The Won't Fix Cabal is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone.
 
-The Maintainerati is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+All attendees, speakers, sponsors and volunteers at Won't Fix Cabal are required to abide by the code of conduct.
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+### Need Help?
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Contact the organizers: [organizers@maintainerati.org](mailto:organizers@maintainerati.org) or use the phone number found in the emails we send you.
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+Long Version
+------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+-	[Purpose](#purpose)
+-	[Open Citizenship](#open-citizenship)
+-	[Code of Conduct](#code-of-conduct)
+-	[Expected Behavior](#expected-behavior)
+-	[Unacceptable Behavior](#unacceptable-behavior)
+-	[Harassment](#harassment)
+-	[Consequences of Unacceptable Behavior](#consequences-of-unacceptable-behavior)
+-	[Reporting Guidelines](#reporting-guidelines)
+-	[Scope](#scope)
+-	[Contact Info](#contact-info)
 
-Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+### Purpose
 
-We expect participants to adhere to the code of conduct at all conference venues and conference-related social events.
+A primary goal of Won't Fix Cabal is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
-## CODE OF CONDUCT
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-I. I am an attendee at WONTFIX Cabal, learning from and sharing with other WONTFIX Cabal attendees in an effort to better myself and my industry. I co-create the experience with fellow attendees. I am prepared to give my energy, presence and sensitivity to creating the best possible experience for myself and others.
+We invite all those who participate in Won't Fix Cabal to help us create safe and positive experiences for everyone.
 
-II. I am coming to WONTFIX Cabal to interact with people. I understand that imagery and language which is suggestive or derogatory will offend and make people uncomfortable. I also understand that people may have boundaries and sensibilities different from my own. I will accept without question when informed that something is offensive or unacceptable in the context of the WONTFIX Cabal event.
+### Open Citizenship
 
-III. I will never intentionally harass or offend another attendee regardless of gender, sexual orientation, disability, appearance, size, race or religion and will not abide another attendee being harassed or offended. If I am aware that anyone is uncomfortable or unsafe, I will notify those giving offense and the WONTFIX Cabal event organizers.
+A supplemental goal of this Code of Conduct is to increase open citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
-IV. If I am offended or harassed, I will inform people around me who make me feel safe and the event organizers. If I feel safe, at my discretion, I will inform those giving offense of the specific actions with the hope that the other party is well-intentioned and ignorant, but I am under no obligation to do so.
+Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-V. I understand that people are different and I attempt to be forgiving of others actions at the level of their sincere intent, but my priority is protecting my safety and the safety of others. I will act without hesitation or reservation until there are no question of the safety of all parties.
+**If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know.** Tell an organizer or email them at
 
-VI. I trust the WONTFIX Cabal organizers and attendees will co-create the best possible experience for everyone involved, as I will. I believe WONTFIX Cabal is about empowering people and I will not forget I am empowered to create a safe and nurturing environment. If I or any other attendee violates this aspect of the event, I expect the conference organizers to protect the attendees by direct action, including expelling those in violation and contacting the proper authorities.
+[organizers@maintainerati.org.](mailto:organizers@maintainerati.org)
+
+### Code of Conduct
+
+All attendees, organizers, speakers, sponsors, and volunteers at Won't Fix Cabal are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+
+The Won't Fix Cabal is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+
+#### Expected Behavior
+
+The following behaviors are expected and requested of all community members:
+
+-	Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+-	Exercise consideration and respect in your speech and actions.
+-	Attempt collaboration before conflict.
+-	**Refrain from** demeaning, discriminatory, or harassing behavior and speech.
+-	Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+-	Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+
+#### Unacceptable Behavior
+
+The following behaviors are considered harassment and are unacceptable within our community:
+
+-	Violence, threats of violence or violent language directed against another person
+-	Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language
+-	Posting or displaying sexually explicit or violent material
+-	Posting or threatening to post other people’s personally identifying information ("doxing")
+-	Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
+-	Inappropriate photography or recording
+-	Inappropriate physical contact. You should have someone’s consent before touching them in any way
+-	Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances
+-	Intimidation, stalking, or following (online or in person)
+-	Advocating for, or encouraging, any of the above behavior
+-	Sustained disruption of community events, including talks and presentations
+
+##### Harassment
+
+We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+
+Sponsors are subject to the Code of Conduct. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff, including volunteers, should not wear sexualized clothing, or otherwise create a sexualized environment.
+
+Harassment includes:
+
+-	verbal comments that reinforce social structures of domination related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, and religion (or lack thereof)
+-	sexual images in public spaces
+-	deliberate intimidation
+-	stalking and following
+-	harassing photography or recording
+-	sustained disruption of talks or other events
+-	inappropriate physical contact
+-	unwelcome sexual attention
+
+No weapons of any kind, drugs, or alcohol are allowed at Won't Fix Cabal venues.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+##### Consequences of Unacceptable Behavior
+
+Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+
+Anyone asked to stop unacceptable behavior is expected to comply immediately.
+
+If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning and without refund.
+
+#### Reporting Guidelines
+
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible at [organizers@maintainerati.org.](mailto:organizers@maintainerati.org)
+
+If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+
+Conference staff can be identified by their badges.
+
+Conference staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+[organizers@maintainerati.org.](mailto:organizers@maintainerati.org)
+
+#### Scope
+
+We expect all community participants (guests, sponsors, and contributors, paid or otherwise) to abide by this Code of Conduct in all community venues, online and in-person, as well as in all one-on-one communications pertaining to community business.
+
+This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+
+### Contact Info
+
+Contact the organizers via [organizers@maintainerati.org](mailto:organizers@maintainerati.org) or use the phone number found in the emails we send you.
+
+***We expect participants to follow these rules at all conference venues and conference-related social events.***
