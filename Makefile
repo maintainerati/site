@@ -1,5 +1,5 @@
 # Set an output prefix, which is the local directory if not specified
-.PHONY: clean all devbuild dev
+.PHONY: clean all devbuild less
 
 .SUFFIXES:
 .SUFFIXES: .less .css
@@ -18,7 +18,7 @@ devbuild:
 
 less: devbuild $(CSS_FILES)
 
-$(CSS_FILES):
+$(CSS_FILES): static/less/*.less
 	docker run --rm -it \
 		-v $(CURDIR)/:/usr/src/wontfix-cabal-site \
 		--workdir /usr/src/wontfix-cabal-site \
