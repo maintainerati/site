@@ -19,7 +19,7 @@ Contact the organizers: [coc@maintainerati.org](mailto:coc@maintainerati.org) or
 
 **NOTE:** The coc@ email address currently goes to Jessie Frazelle. If you have
 a problem with Jess specifically, or would rather someone else deals with the
-issue please reach out to David Calavera, Seth Vargo, Thea Lamkin, or Katrina Owen.
+issue, please reach out to David Calavera, Seth Vargo, Thea Lamkin, or Katrina Owen.
 
 Long Version
 ------------
