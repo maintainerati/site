@@ -1,6 +1,9 @@
 {{ partial "head.html" . }}
 <article class="post">
-    <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+    <div class="page-header">
+        <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+    </div>
+
     {{ .Content }}
 </article>
 {{ partial "foot.html" . }}
