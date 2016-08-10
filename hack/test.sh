@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+set +x
 
 if [ -z "$VALIDATE_UPSTREAM" ]; then
 	# this is kind of an expensive check, so let's not do this twice if we
@@ -7,11 +8,6 @@ if [ -z "$VALIDATE_UPSTREAM" ]; then
 
 	VALIDATE_REPO='https://github.com/maintainerati/wontfix-cabal-site.git'
 	VALIDATE_BRANCH='master'
-
-	if [ "$TRAVIS" = 'true' -a "$TRAVIS_PULL_REQUEST" != 'false' ]; then
-		VALIDATE_REPO="https://github.com/${TRAVIS_REPO_SLUG}.git"
-		VALIDATE_BRANCH="${TRAVIS_BRANCH}"
-	fi
 
 	VALIDATE_HEAD="$(git rev-parse --verify HEAD)"
 
@@ -26,11 +22,6 @@ if [ -z "$VALIDATE_UPSTREAM" ]; then
 			git diff "$VALIDATE_COMMIT_DIFF" "$@"
 		fi
 	}
-	validate_log() {
-		if [ "$VALIDATE_UPSTREAM" != "$VALIDATE_HEAD" ]; then
-			git log "$VALIDATE_COMMIT_LOG" "$@"
-		fi
-	}
 fi
 
 IFS=$'\n'
@@ -39,7 +30,7 @@ unset IFS
 
 if [ ${#files[@]} -gt 0 ]; then
 	# We run `make less` to and see if we have a diff afterwards
-	make less >/dev/null
+	make clean less > /dev/null
 	# Let see if the working directory is clean
 	diffs="$(git status --porcelain -- static 2>/dev/null)"
 	if [ "$diffs" ]; then

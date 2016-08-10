@@ -41,3 +41,4 @@ $(CSS_FILES): static/less/*.less
 
 clean:
 	rm -rf public
+	rm -rf $(CSS_FILES)
