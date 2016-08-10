@@ -34,7 +34,7 @@ Commit messages must start with a capitalized and short summary (max. 50
 chars) written in the imperative, followed by an optional, more detailed
 explanatory text which is separated from the summary by an empty line.
 
-When you open a pull request [netlify](https://netlify.com] will build your
+When you open a pull request [netlify](https://netlify.com) will build your
 branch and then you will be able to view the changes to the site **IN** your
 pull request via a [deploy preview](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews).
 
