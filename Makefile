@@ -25,3 +25,5 @@ $(CSS_FILES): static/less/*.less
 		$(DOCKER_IMAGE):dev \
 		sh -c '$(LESSC) $(LESSCFLAGS) $(LESS_FILES) > $@'
 
+clean:
+	rm -rf public
