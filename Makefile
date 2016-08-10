@@ -25,7 +25,7 @@ serve: build
 		--workdir /usr/src/wontfix-cabal-site \
 		-p $(PORT):$(PORT)\
 		--name wontfix-cabal-site \
-		$(DOCKER_IMAGE) hugo server --port=$(PORT) --bind=0.0.0.0
+		$(DOCKER_IMAGE) hugo server -w --port=$(PORT) --bind=0.0.0.0
 
 less: devbuild $(CSS_FILES)
 

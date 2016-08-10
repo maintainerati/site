@@ -57,42 +57,17 @@ means anything inside the `content/...` directory. Changes to content should be
 submitted as a separate PR from changes to site functionality.
 
 ## Development Setup
-1. Install [Hugo](http://gohugo.io)
-1. For making CSS changes you will need `docker` in order to compile the
-   LESS files.
-1. Fork this repo
+1. Docker.
+1. Fork this repo.
 
 ### View site locally
-1. To watch for changes and rebuild on the fly, open a new terminal, cd to your
+To watch for changes and rebuild on the fly, open a new terminal, cd to your
 fork of the repo, and enter this command:
-`hugo server -w --baseUrl="http://localhost:1337"`
-1. OS X has low ulimits, so you may see this message:
-```
-hugo server -w --baseUrl="http://localhost:1337"
-[...]
-Error: listen tcp 127.0.0.1:1337: socket: too many open files
+```console
+$ make serve
 ```
 
-You can correct it with this:
-```
- $  hugo check ulimit
- $  sudo sysctl -w kern.maxfiles=65536
- $  sudo sysctl -w kern.maxfilesperproc=65536
- $  ulimit -n 65536 65536
-```
-Then in a new window:
-```
- $  hugo server -w --baseUrl="http://localhost:1337"
-```
-
-A more permanent fix is to add the following to `/etc/sysctl.conf` (run
-`touch /etc/sysctl.conf` first if the file doesn't exist; it likely does not):
-
-```
-kern.maxfiles=20480
-kern.maxfilesperproc=24576
-```
-...and reboot!
+You can then view the site at http://localhost:1337.
 
 ### CSS changes are done with LESS
 
