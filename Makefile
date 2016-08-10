@@ -10,7 +10,7 @@ LESS_FILES=static/less/main.less
 CSS_FILES=static/css/main.min.css
 
 LESSC = lessc
-LESSCFLAGS = -x --clean-css
+LESSCFLAGS = --clean-css
 all: less
 
 devbuild:

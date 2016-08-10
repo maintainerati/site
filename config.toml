@@ -1,3 +1,7 @@
 baseurl = "https://maintainerati.org/"
 languageCode = "en-us"
 title = "WONTFIX Cabal"
+
+[params]
+  description = "A new unconference, open space for open source software maintainers."
+  author = "The Maintainerati"

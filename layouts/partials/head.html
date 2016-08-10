@@ -1,44 +1,53 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-<head>
-  <meta charset="utf-8">
-  <title>{{ .Site.Title }}</title>
-  <meta name="author" content="{{ .Site.Author.name }}">
-  <meta name="description" content="{{ .Site.Params.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-  <!-- Icons -->
-  <!--<link rel="icon" href="/favicon.png" />-->
+        <title>{{ .Site.Title }}</title>
+        <meta name="author" content="{{ .Site.Params.author }}">
+        <meta name="description" content="{{ .Site.Params.description }}">
 
-  <!-- CSS Style -->
-  <link rel="stylesheet" href="/css/main.min.css" />
-  {{ if isset .Site.Params "customCSS" }}
-  <link href='{{ .Site.BaseURL }}{{ .Site.Params.customCSS }}' rel='stylesheet' type='text/css'>
-  {{ end }}
-  {{ if eq .Site.Params.googleFont true }}
-  <!-- Load Google Font Merriweather -->
-  <link href='//fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'>
-  {{ end }}
+        <!-- Icons -->
+        <!--<link rel="icon" href="/favicon.png" />-->
 
-</head>
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,500,600,700|Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i|Source+Serif+Pro:400,600,700" rel="stylesheet">
 
-<body class="{{ with .Site.Params.pageLayoutClass }}{{ . }}{{ end }}">
+        <!-- CSS Style -->
+        <link rel="stylesheet" href="/css/main.min.css" />
 
-  {{ if or (isset .Site.Params "headerGraphic") (isset .Site.Params "headerHTML") }}
-  <div class="header center">
-    {{ if isset .Site.Params "headerHTML" }}
-    <p> {{ .Site.Params.headerHTML | safeHTML }} </p>
-    {{ end }}
-    {{ if isset .Site.Params "headerGraphic" }}
-    <a href="/">
-      <img src="{{ .Site.BaseURL }}{{ .Site.Params.headerGraphic }}" alt="{{ .Site.Params.headerGraphicAlt }}" title="{{ .Site.Params.headerGraphicTitle }}"/>
-    </a>
-    {{ end }}
-  </div>
-  {{ end }}
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">{{ .Site.Title }}</a>
+                </div>
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="/">Home</a></li>
+                        <li><a href="https://docs.google.com/document/d/17ksd6K3ijUe0h8Iuou993qLfYnyWSw4ffob8XdIjhSE/edit?usp=sharing" target="_blank">Sponsor Prospectus</a></li>
+                        <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+                        <li><a href="/diversity-statement/">Diversity Statement</a></li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
 
-  <div class="wrap">
-    <header class="mb">
-      <h1 class="h2 m-0"><a href="/">{{ .Site.Title }}</a></h1>
-      <p class="site-description">{{ .Site.Params.description }}</p>
-    </header>
+        <div class="container">
+
