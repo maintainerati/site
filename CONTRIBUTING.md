@@ -11,7 +11,10 @@ discouraged! If there's a problem with the implementation, hopefully you
 received feedback on what to improve.
 
 - [General Conventions](#general-conventions)
--
+- [Development Setup](#development-setup)
+    - [Viewing the site locally](#view-site-locally)
+    - [Making CSS changes via LESS](#css-changes-are-done-with-less)
+- [Sign your work](#sign-your-work)
 
 ## General Conventions
 
