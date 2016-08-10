@@ -49,9 +49,7 @@ A supplemental goal of this Code of Conduct is to increase open citizenship by e
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-**If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know.** Tell an organizer or email them at
-
-[coc@maintainerati.org.](mailto:coc@maintainerati.org)
+**If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know.** Tell an organizer or [email them](#contact-info).
 
 ### Code of Conduct
 
@@ -117,15 +115,13 @@ If a community member engages in unacceptable behavior, the community organizers
 
 #### Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible at [coc@maintainerati.org.](mailto:coc@maintainerati.org)
+If you are subject to or witness unacceptable behavior, or have any other concerns, please [notify a community organizer](#contact-info) as soon as possible.
 
 If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
 Conference staff can be identified by their badges.
 
 Conference staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
-
-[coc@maintainerati.org.](mailto:coc@maintainerati.org)
 
 #### Scope
 
@@ -135,6 +131,11 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ### Contact Info
 
-Contact the organizers via [coc@maintainerati.org](mailto:coc@maintainerati.org) or use the phone number found in the emails we send you.
+Contact the organizers via [coc@maintainerati.org](mailto:coc@maintainerati.org)
+or use the phone number found in the emails we send you.
+
+**NOTE:** The coc@ email address currently goes to Jessie Frazelle. If you have
+a problem with Jess specifically, or would rather someone else deals with the
+issue, please reach out to David Calavera, Seth Vargo, Thea Lamkin, or Katrina Owen.
 
 ***We expect participants to follow these rules at all conference venues and conference-related social events.***
