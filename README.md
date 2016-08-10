@@ -1,5 +1,7 @@
 # WONTFIX Cabal Website
 
+[![Build Status](https://travis-ci.org/maintainerati/wontfix-cabal-site.svg?branch=master)](https://travis-ci.org/maintainerati/wontfix-cabal-site)
+
 This repo holds the source code for the WONTFIX Cabal website.
 
 The site uses [`hugo`](https://gohugo.io/) and is hosted on
