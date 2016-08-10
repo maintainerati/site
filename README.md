@@ -66,3 +66,29 @@ it to [https://maintainerati.org](https://maintainerati.org).
 via a [deploy preview](https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews).
 
 ![deploy-preview](static/deploy-preview.gif)
+
+## Advanced Contributions
+If you are going to be making changes to the overall functionality of the site, please keep the following in mind:
+
+### Changes to content should be separate from overall functionality
+"Content" means anything inside the `content/...` directory.
+
+Changes to content should be submitted as a separate PR from changes to site
+functionality. It would be additionally delightful if you label PR's for site
+functionality (such as `bug` or `enhancement`), but that's not required.
+
+### CSS changes are done with LESS
+
+Please do NOT make changes to any of the files in the `static/css` directory.
+These are files that are compiled via LESS, and while your changes in there
+might work, they will be blown away by the LESS compiler at some point.
+
+If you want to make changes to CSS, you will need `docker` on your system so you
+cn use Jess' awesome [`Makefile`](Makefile).
+
+The only place to make changes to the LESS files is in
+[`static/less/variables.less`](static/less/variables.less),
+[`static/less/main.less`](static/less/main.less) and
+[`static/less/custom.less`](static/less/custom.less).
+
+*DO NOT* make any changes to any other LESS file (do not directly modify the bootstrap LESS files, for example).
