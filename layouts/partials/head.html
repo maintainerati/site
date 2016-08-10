@@ -1,18 +1,17 @@
-<!doctype html> 
-<html lang="{{ .Site.LanguageCode }}"> 
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}">
 <head>
   <meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
   <meta name="author" content="{{ .Site.Author.name }}">
   <meta name="description" content="{{ .Site.Params.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   <!-- Icons -->
-  <link rel="icon" href="/favicon.png" />
-  <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
-  
+  <!--<link rel="icon" href="/favicon.png" />-->
+
   <!-- CSS Style -->
-  <link rel="stylesheet" href="/style.css" />
+  <link rel="stylesheet" href="/css/main.min.css" />
   {{ if isset .Site.Params "customCSS" }}
   <link href='{{ .Site.BaseURL }}{{ .Site.Params.customCSS }}' rel='stylesheet' type='text/css'>
   {{ end }}
