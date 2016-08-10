@@ -1,5 +1,5 @@
 # Set an output prefix, which is the local directory if not specified
-.PHONY: clean all build devbuild less
+.PHONY: clean all build devbuild less serve
 
 .SUFFIXES:
 .SUFFIXES: .less .css
