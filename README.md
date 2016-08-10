@@ -91,4 +91,12 @@ The only place to make changes to the LESS files is in
 [`static/less/main.less`](static/less/main.less) and
 [`static/less/custom.less`](static/less/custom.less).
 
-*DO NOT* make any changes to any other LESS file (do not directly modify the bootstrap LESS files, for example).
+*DO NOT* make any changes to any other LESS file (do not directly modify the
+bootstrap LESS files, for example).
+
+To use the `Makefile` it's as simple as:
+
+```console
+$ make
+```
+
