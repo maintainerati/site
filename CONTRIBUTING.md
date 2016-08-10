@@ -65,12 +65,12 @@ submitted as a separate PR from changes to site functionality.
 ### View site locally
 1. To watch for changes and rebuild on the fly, open a new terminal, cd to your
 fork of the repo, and enter this command:
-`hugo server -w --baseUrl="http://localhost:1313"`
+`hugo server -w --baseUrl="http://localhost:1337"`
 1. OS X has low ulimits, so you may see this message:
 ```
-hugo server -w --baseUrl="http://localhost:1313"
+hugo server -w --baseUrl="http://localhost:1337"
 [...]
-Error: listen tcp 127.0.0.1:1313: socket: too many open files
+Error: listen tcp 127.0.0.1:1337: socket: too many open files
 ```
 
 You can correct it with this:
@@ -82,7 +82,7 @@ You can correct it with this:
 ```
 Then in a new window:
 ```
- $  hugo server -w --baseUrl="http://localhost:1313"
+ $  hugo server -w --baseUrl="http://localhost:1337"
 ```
 
 A more permanent fix is to add the following to `/etc/sysctl.conf` (run
