@@ -28,4 +28,4 @@ We decided when organizing this conference that we would like it to be a confere
 
 We welcome diversity because we believe it makes the open source community stronger and more productive. We believe diverse teams make better products. We strive to make everyone feel welcome and know that their contribution is important.
 
-Come Won't Fix with us.
+Come WONTFIX with us.
