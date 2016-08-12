@@ -10,6 +10,19 @@
         <meta name="author" content="{{ .Site.Params.author }}">
         <meta name="description" content="{{ .Site.Params.description }}">
 
+        <!-- Meta Social Tags -->
+        <link rel="canonical" href="{{ .Site.BaseURL }}" />
+        <meta property="og:site_name" content="{{ .Site.Title }}" />
+        <meta property="og:title" content="{{ .Site.Title }}" />
+        <meta property="og:url" content="{{ .Site.BaseURL }}" />
+        <meta property="og:type" content="website" />
+        <meta itemprop="name" content="{{ .Site.Title }}" />
+        <meta itemprop="url" content="{{ .Site.BaseURL }}" />
+        <meta name="twitter:title" content="{{ .Site.Title }}" />
+        <meta name="twitter:url" content="{{ .Site.BaseURL }}" />
+        <meta name="twitter:card" content="summary"/>
+        <meta name="description" content="{{ .Site.Params.description }}" />
+
         <!-- Icons -->
         <!--<link rel="icon" href="/favicon.png" />-->
 
