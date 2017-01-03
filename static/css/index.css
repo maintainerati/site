@@ -1951,7 +1951,7 @@ html:not(.sqs-modal-lightbox-open) .auto-overlay [data-slice-type="gallery"] .de
 
 #sponsors ul li {
     max-width: 30%;
-    padding: 3%;
+    padding: 1%;
     overflow: hidden;
 }
 
