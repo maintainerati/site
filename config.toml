@@ -5,3 +5,8 @@ title = "WONTFIX Cabal"
 [params]
   description = "A new unconference, open space for open source software maintainers."
   author = "The Maintainerati"
+  date = "23 May, 2017"
+  [params.location]
+    name = "Interchange"
+    city = "London"
+    url = "https://example.com/"
