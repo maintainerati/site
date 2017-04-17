@@ -6,7 +6,7 @@ if [ -z "$VALIDATE_UPSTREAM" ]; then
 	# this is kind of an expensive check, so let's not do this twice if we
 	# are running more than one validate bundlescript
 
-	VALIDATE_REPO='https://github.com/maintainerati/wontfix-cabal-site.git'
+	VALIDATE_REPO='https://github.com/maintainerati/site.git'
 	VALIDATE_BRANCH='master'
 
 	VALIDATE_HEAD="$(git rev-parse --verify HEAD)"

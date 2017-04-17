@@ -9,9 +9,9 @@ title = "Code of Conduct"
 Short Version
 -------------
 
-The WONTFIX Cabal is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone.
+The Maintainerati is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone.
 
-All attendees, speakers, sponsors and volunteers at WONTFIX Cabal are required to abide by the code of conduct.
+All attendees, speakers, sponsors and volunteers at Maintainerati are required to abide by the code of conduct.
 
 ### Need Help?
 
@@ -37,11 +37,11 @@ Long Version
 
 ### Purpose
 
-A primary goal of WONTFIX Cabal is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+A primary goal of Maintainerati is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in WONTFIX Cabal to help us create safe and positive experiences for everyone.
+We invite all those who participate in Maintainerati to help us create safe and positive experiences for everyone.
 
 ### Open Citizenship
 
@@ -53,9 +53,9 @@ Communities mirror the societies in which they exist and positive action is esse
 
 ### Code of Conduct
 
-All attendees, organizers, speakers, sponsors, and volunteers at WONTFIX Cabal are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+All attendees, organizers, speakers, sponsors, and volunteers at Maintainerati are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
 
-The WONTFIX Cabal is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+The Maintainerati is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 #### Expected Behavior
 
@@ -101,7 +101,7 @@ Harassment includes:
 -	inappropriate physical contact
 -	unwelcome sexual attention
 
-No weapons of any kind, drugs, or alcohol are allowed at WONTFIX Cabal venues.
+No weapons of any kind, drugs, or alcohol are allowed at Maintainerati venues.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 

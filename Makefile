@@ -4,7 +4,7 @@
 .SUFFIXES:
 .SUFFIXES: .less .css
 
-DOCKER_IMAGE=maintainerati/wontfix-cabal-site
+DOCKER_IMAGE=maintainerati/site
 
 PORT := 1337
 
@@ -21,10 +21,10 @@ build:
 
 serve: build
 	docker run --rm -it \
-		-v $(CURDIR)/:/usr/src/wontfix-cabal-site \
-		--workdir /usr/src/wontfix-cabal-site \
+		-v $(CURDIR)/:/usr/src/site \
+		--workdir /usr/src/site \
 		-p $(PORT):$(PORT)\
-		--name wontfix-cabal-site \
+		--name site \
 		$(DOCKER_IMAGE) hugo server -w --port=$(PORT) --bind=0.0.0.0
 
 less: devbuild $(CSS_FILES)
@@ -34,8 +34,8 @@ devbuild:
 
 $(CSS_FILES): static/less/*.less
 	docker run --rm -it \
-		-v $(CURDIR)/:/usr/src/wontfix-cabal-site \
-		--workdir /usr/src/wontfix-cabal-site \
+		-v $(CURDIR)/:/usr/src/site \
+		--workdir /usr/src/site \
 		$(DOCKER_IMAGE):dev \
 		sh -c '$(LESSC) $(LESSCFLAGS) $(LESS_FILES) > $@'
 
