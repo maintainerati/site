@@ -1,7 +1,12 @@
 baseurl = "https://maintainerati.org/"
 languageCode = "en-us"
-title = "WONTFIX Cabal"
+title = "Maintainerati"
 
 [params]
   description = "A new unconference, open space for open source software maintainers."
   author = "The Maintainerati"
+  date = "23 May, 2017"
+  [params.location]
+    name = "Ace Hotel Shoreditch"
+    city = "London"
+    url = "https://www.acehotel.com/london"
