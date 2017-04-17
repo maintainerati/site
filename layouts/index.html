@@ -1,4 +1,4 @@
-{{ partial "head.html" . }}
+{{ partial "home-head.html" . }}
 <div class="home">
     <h1>Maintainerati</h1>
     <h3>
@@ -15,30 +15,25 @@
     No talks, just discussions.
     </p>
     <div>
-        <a href="https://www.universe.com/events/maintainerati-london-2017-tickets-TV97CX" target="_blank" >Get a Ticket</a>
+        <a class="btn btn-default btn-lg" href="https://www.universe.com/events/maintainerati-london-2017-tickets-TV97CX" target="_blank" >Get a Ticket</a>
     </div>
-    <div class="links">
-        <ul>
-            <li>
-                <a href="https://twitter.com/maintainerati" target="_blank">@maintainerati</a></li>
-            <li>
+    <div class="row links">
+            <div class="col-md-4">
+                <a href="https://twitter.com/maintainerati" target="_blank">@maintainerati</a>
+            </div>
+            <div class="col-md-4">
                 <a href="/code-of-conduct/">Code of Conduct</a>
-            </li>
-            <li>
+            </div>
+            <div class="col-md-4">
                 <a href="/diversity-statement/">Diversity Statement</a>
-            </li>
-        </ul>
+            </div>
+        </div>
+        <div class="sponsors">
+            <p class="lead">Big thanks to:
+            <a href="https://github.com" target="_blank">
+                <img src="/img/github.png" />
+            </a>
+            </p>
+        </div>
     </div>
-    <div class="sponsors">
-        <h2>Big thanks to:</h2>
-        <ul>
-            <li>
-                <a href="https://github.com" target="_blank">
-                    <img src="/img/github.png" />
-                </a>
-            </li>
-        </ul>
-    </div>
-
-</div>
-{{ partial "foot.html" . }}
+    {{ partial "foot.html" . }}

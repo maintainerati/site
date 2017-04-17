@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+        <title>{{ .Site.Title }}</title>
+        <meta name="author" content="{{ .Site.Params.author }}">
+        <meta name="description" content="{{ .Site.Params.description }}">
+
+        <!-- Meta Social Tags -->
+        <link rel="canonical" href="{{ .Site.BaseURL }}" />
+        <meta property="og:site_name" content="{{ .Site.Title }}" />
+        <meta property="og:title" content="{{ .Site.Title }}" />
+        <meta property="og:url" content="{{ .Site.BaseURL }}" />
+        <meta property="og:type" content="website" />
+        <meta itemprop="name" content="{{ .Site.Title }}" />
+        <meta itemprop="url" content="{{ .Site.BaseURL }}" />
+        <meta name="twitter:title" content="{{ .Site.Title }}" />
+        <meta name="twitter:url" content="{{ .Site.BaseURL }}" />
+        <meta name="twitter:card" content="summary"/>
+        <meta name="description" content="{{ .Site.Params.description }}" />
+
+        <!-- Icons -->
+        <!--<link rel="icon" href="/favicon.png" />-->
+
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,500,600,700|Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i|Source+Serif+Pro:400,600,700" rel="stylesheet">
+
+        <!-- CSS Style -->
+        <link rel="stylesheet" href="/css/main.min.css" />
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body class="home">
+        <div class="container">
+
