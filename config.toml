@@ -3,10 +3,10 @@ languageCode = "en-us"
 title = "Maintainerati"
 
 [params]
-  description = "A new unconference, open space for open source software maintainers."
+  description = "No talks, just discussions. An unconference for open source software maintainers."
   author = "The Maintainerati"
-  date = "23 May, 2017"
+  date = "10 October, 2017"
   [params.location]
-    name = "Ace Hotel Shoreditch"
-    city = "London"
-    url = "https://www.acehotel.com/london"
+    name = "The Laundry SF"
+    city = "San Francisco"
+    url = "http://thelaundrysf.com/"
