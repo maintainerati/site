@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Maintainerati"
 
 [params]
-  description = "No talks, just discussions. An unconference for open source software maintainers."
+  description = "An unconference, open space for open source software maintainers."
   author = "The Maintainerati"
   date = "10 October, 2017"
   [params.location]
