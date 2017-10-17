@@ -76,7 +76,7 @@ These are files that are compiled via LESS, and while your changes in there
 might work, they will be blown away by the LESS compiler at some point.
 
 If you want to make changes to CSS, you will need `docker` on your system so you
-cn use Jess' awesome [`Makefile`](Makefile).
+can use Jess' awesome [`Makefile`](Makefile).
 
 The only place to make changes to the LESS files is in
 [`static/less/variables.less`](static/less/variables.less),
