@@ -5,8 +5,8 @@ title = "Maintainerati"
 [params]
   description = "An unconference, open space for open source software maintainers."
   author = "The Maintainerati"
-  date = "10 October, 2017"
+  date = "19 November, 2017"
   [params.location]
-    name = "The Laundry SF"
-    city = "San Francisco"
-    url = "http://thelaundrysf.com/"
+    name = "Xebia"
+    city = "Amsterdam"
+    url = "https://xebia.com/"
