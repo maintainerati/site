@@ -1,5 +1,8 @@
 {{ partial "head.html" . }}
         <main>
+            <div class="page-header">
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+            </div>
             {{ range .Paginator.Pages }}
                 <article>
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
