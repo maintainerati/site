@@ -4,6 +4,8 @@ title = "Maintainerati"
 
 [params]
   description = "An unconference, open space for open source software maintainers."
+  slack = "https://maintainerati.slack.com"
+  slackInvite = "/slack-invite"
   author = "The Maintainerati"
   date = "19 November, 2017"
   [params.location]
