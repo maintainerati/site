@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maintainerati Blog on Maintainerati</title>
+    <link>https://maintainerati.org/blog/</link>
+    <description>Recent content in Maintainerati Blog on Maintainerati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 14:26:32 +0100</lastBuildDate>
+    
+	<atom:link href="https://maintainerati.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is This Thing On?</title>
+      <link>https://maintainerati.org/blog/is-this-thing-on/</link>
+      <pubDate>Mon, 28 Jan 2019 14:26:32 +0100</pubDate>
+      
+      <guid>https://maintainerati.org/blog/is-this-thing-on/</guid>
+      <description>Howdy! This is just a mic check. Soon, the lights will dim and the show will start, but until then, we encourage you to check back in soon…</description>
+    </item>
+    
+  </channel>
+</rss>
