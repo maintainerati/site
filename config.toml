@@ -1,6 +1,7 @@
 baseurl = "https://maintainerati.org/"
 languageCode = "en-us"
 title = "Maintainerati"
+publishDir = "docs"
 
 [params]
   description = "An unconference, open space for open source software maintainers."

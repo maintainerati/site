@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://maintainerati.org/blog/is-this-thing-on/</loc>
+    <lastmod>2019-01-28T14:26:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/code-of-conduct/</loc>
+    <lastmod>2016-06-19T21:25:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/diversity-statement/</loc>
+    <lastmod>2016-06-19T21:25:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/sponsor-prospectus/</loc>
+    <lastmod>2016-06-19T21:25:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/</loc>
+    <lastmod>2019-01-28T14:26:32+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/blog/</loc>
+    <lastmod>2019-01-28T14:26:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
