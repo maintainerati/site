@@ -1,32 +1,55 @@
-{{ partial "head.html" . }}
-        <main>
-            <div class="page-header">
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
-            </div>
+{{ define "main" }}
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center w-100 lh-copy mid-gray">
+    {{ .Content }}
+  </article>
+  {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
+  {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+  {{/* Create a variable with that section to use in multiple places. */}}
+  {{ $section := where .Site.RegularPages "Section" "in" $mainSections }}
+  {{/* Check to see if the section is defined for ranging through it */}}
+  {{ $section_count := len $section }}
+  {{ if ge $section_count 1 }}
+    {{/* Derive the section name  */}}
+    {{ $section_name := index (.Site.Params.mainSections) 0 }}
 
-            <div>
-                <h2>Next Event</h2>
-                <p>Information coming soon!</p>
-            </div>
+    <div class="pa3 pa4-ns w-100 w-70-ns center">
+      {{/* Use $section_name to get the section title. Use "with" to only show it if it exists */}}
+       {{ with .Site.GetPage "section" $section_name }}
+          <h1 class="flex-none">
+            {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
+          </h1>
+        {{ end }}
 
-            <div>
-                <h2>Latest Blog Posts</h2>
-                {{ range .Paginator.Pages }}
-                    {{ if eq .Section "blog" }}
-                    <article>
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                        <p>{{ .Summary }}</p>
-                    </article>
-                    {{ end }}
-                {{ end }}
-                <nav>
-                    {{ if .Paginator.HasPrev }}
-                        <a href="{{ .Paginator.Prev.URL }}">PREV</a>
-                    {{ end }}
-                    {{ if .Paginator.HasNext }}
-                        <a href="{{ .Paginator.Next.URL }}">NEXT</a>
-                    {{ end }}
-                </nav>
-            </div>
-        </main>
-{{ partial "foot.html" . }}
+      {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
+
+      <section class="w-100 mw8">
+        {{/* Range through the first $n_posts items of the section */}}
+        {{ range (first $n_posts $section) }}
+          <div class="relative w-100 mb4">
+            {{ partial "summary-with-image.html" . }}
+          </div>
+        {{ end }}
+      </section>
+
+      {{ if ge $section_count (add $n_posts 1) }}
+      <section class="w-100">
+        <h1 class="f3">{{ i18n "more" }}</h1>
+        {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
+        {{ range (first 4 (after $n_posts $section))  }}
+          <h2 class="f5 fw4 mb4 dib mr3">
+            <a href="{{ .URL }}" class="link black dim">
+              {{ .Title }}
+            </a>
+          </h2>
+        {{ end }}
+
+        {{/* As above, Use $section_name to get the section title, and URL. Use "with" to only show it if it exists */}}
+        {{ with .Site.GetPage "section" $section_name }}
+          <a href="{{ .URL }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">{{ i18n "allTitle" . }}</a>
+        {{ end }}
+        </section>
+      {{ end }}
+
+      </div>
+  {{ end }}
+{{ end }}
