@@ -1,7 +1,7 @@
 +++
 date = "2016-06-19T21:25:01-07:00"
 title = "Sponsor Prospectus"
-
+draft = true
 +++
 
 A new unconference, open space specifically for Open Source Software maintainers. Unlike most conferences, this one will not have any talks. We believe a discussion based conference will have the most benefit to attendees.
