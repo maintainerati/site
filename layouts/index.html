@@ -1,42 +1,32 @@
-{{ partial "home-head.html" . }}
-<div class="home">
-    <h1>Maintainerati</h1>
-    <h3>
-        <a href="{{ .Site.Params.location.url }}">{{ .Site.Params.location.name }}</a>
-        -
-        {{ .Site.Params.location.city }}
-        -
-        {{ .Site.Params.date }}
-    </h3>
-    <p>
-    An unconference, open space for open source software maintainers.
-    </p>
-    <p>
-    No talks, just discussions.
-    </p>
-    <div>
-        <a class="btn btn-default btn-lg" href="https://www.eventbrite.nl/e/tickets-maintainerati-unconference-amsterdam-39008825447" target="_blank" >Get a Ticket</a>
-    </div>
-    <div class="row links">
-            <div class="col-md-4">
-                <a href="https://twitter.com/maintainerati" target="_blank">@maintainerati</a>
+{{ partial "head.html" . }}
+        <main>
+            <div class="page-header">
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
             </div>
-            <div class="col-md-4">
-                <a href="/code-of-conduct/">Code of Conduct</a>
+
+            <div>
+                <h2>Next Event</h2>
+                <p>Information coming soon!</p>
             </div>
-            <div class="col-md-4">
-                <a href="/diversity-statement/">Diversity Statement</a>
+
+            <div>
+                <h2>Latest Blog Posts</h2>
+                {{ range .Paginator.Pages }}
+                    {{ if eq .Section "blog" }}
+                    <article>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <p>{{ .Summary }}</p>
+                    </article>
+                    {{ end }}
+                {{ end }}
+                <nav>
+                    {{ if .Paginator.HasPrev }}
+                        <a href="{{ .Paginator.Prev.URL }}">PREV</a>
+                    {{ end }}
+                    {{ if .Paginator.HasNext }}
+                        <a href="{{ .Paginator.Next.URL }}">NEXT</a>
+                    {{ end }}
+                </nav>
             </div>
-        </div>
-        <div class="sponsors">
-            <p class="lead">Brought to you by:
-            <a href="https://github.com" target="_blank">
-                <img src="/img/github.png" />
-            </a>
-            <a href="https://xebia.com" target="_blank">
-                <img src="/img/xebia.png">
-            </a>
-            </p>
-        </div>
-    </div>
-    {{ partial "foot.html" . }}
+        </main>
+{{ partial "foot.html" . }}
