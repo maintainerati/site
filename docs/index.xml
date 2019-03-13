@@ -6,10 +6,19 @@
     <description>Recent content on Maintainerati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 14:26:32 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 14:09:43 +0100</lastBuildDate>
     
 	<atom:link href="http://localhost:8273/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reviving Maintainerati</title>
+      <link>http://localhost:8273/blog/reviving-maintainerati/</link>
+      <pubDate>Wed, 13 Mar 2019 14:09:43 +0100</pubDate>
+      
+      <guid>http://localhost:8273/blog/reviving-maintainerati/</guid>
+      <description>Oh yes it is</description>
+    </item>
     
     <item>
       <title>Is This Thing On?</title>

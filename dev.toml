@@ -51,7 +51,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "An unconference, open space for open source software maintainers."
+  description = "An unconference for open source software maintainers."
   facebook = ""
   twitter = "https://twitter.com/Maintainerati"
   instagram = ""
