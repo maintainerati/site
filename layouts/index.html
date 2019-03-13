@@ -3,7 +3,7 @@
     {{ .Content }}
   </article>
 
-  <div class="pa3 pa4-ns w-100 w-70-ns center">
+<!--   <div class="pa3 pa4-ns w-100 w-70-ns center">
   {{/* Get featured content */}}
   {{ range .Pages  }}
   {{ if .Params.featured }}
@@ -11,7 +11,7 @@
   {{ .Content }}
   {{ end }}
   {{ end }}
-  </div>
+  </div> -->
 
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}

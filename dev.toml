@@ -1,4 +1,4 @@
-baseurl = "http://localhost:8273/"
+baseurl = "https://maintainerati.ngrok.io"
 languageCode = "en-us"
 title = "Maintainerati"
 publishDir = "docs"
