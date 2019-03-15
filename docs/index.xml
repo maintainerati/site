@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maintainerati</title>
-    <link>https://maintainerati.ngrok.io/</link>
+    <link>https://maintainerati.org/</link>
     <description>Recent content on Maintainerati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Mar 2019 14:09:43 +0100</lastBuildDate>
     
-	<atom:link href="https://maintainerati.ngrok.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://maintainerati.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reviving Maintainerati</title>
-      <link>https://maintainerati.ngrok.io/blog/reviving-maintainerati/</link>
+      <link>https://maintainerati.org/blog/reviving-maintainerati/</link>
       <pubDate>Wed, 13 Mar 2019 14:09:43 +0100</pubDate>
       
-      <guid>https://maintainerati.ngrok.io/blog/reviving-maintainerati/</guid>
+      <guid>https://maintainerati.org/blog/reviving-maintainerati/</guid>
       <description>Maintainerati is a one-day Open Space unconference for open source maintainers.
 February 2017 saw a group of open source maintainers gathered at GitHub’s HQ in San Francisco, an event then repeated in London and Amsterdam. Maintainers left these events feeling both inspired and empowered.
 During these events, one important thing we learned is that maintainers need to have access to others who are sharing the same experiences, struggles and successes they have while running an open source project.</description>
@@ -24,10 +24,10 @@ During these events, one important thing we learned is that maintainers need to 
     
     <item>
       <title>Code of Conduct</title>
-      <link>https://maintainerati.ngrok.io/code-of-conduct/</link>
+      <link>https://maintainerati.org/code-of-conduct/</link>
       <pubDate>Sun, 19 Jun 2016 21:25:01 -0700</pubDate>
       
-      <guid>https://maintainerati.ngrok.io/code-of-conduct/</guid>
+      <guid>https://maintainerati.org/code-of-conduct/</guid>
       <description>(Adapted from the Open Source Feels Code of Conduct)
 Short Version The Maintainerati is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone.
 All attendees, speakers, sponsors and volunteers at Maintainerati are required to abide by the code of conduct.
@@ -37,10 +37,10 @@ NOTE: The coc@ email address currently goes to Jessie Frazelle.</description>
     
     <item>
       <title>Diversity Statement</title>
-      <link>https://maintainerati.ngrok.io/diversity-statement/</link>
+      <link>https://maintainerati.org/diversity-statement/</link>
       <pubDate>Sun, 19 Jun 2016 21:25:01 -0700</pubDate>
       
-      <guid>https://maintainerati.ngrok.io/diversity-statement/</guid>
+      <guid>https://maintainerati.org/diversity-statement/</guid>
       <description>(Adapted from the Open Source Feels Diversity Statement)
 Platitudes are cheap. We&amp;rsquo;ve all heard conferences and communities say they&amp;rsquo;re committed to &amp;ldquo;diversity&amp;rdquo; and &amp;ldquo;tolerance&amp;rdquo; without ever getting specific, so here&amp;rsquo;s our stance on it:
 We welcome you.
