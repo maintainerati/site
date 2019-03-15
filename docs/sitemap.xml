@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://maintainerati.ngrok.io/blog/</loc>
+    <lastmod>2019-03-13T14:09:43+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maintainerati.ngrok.io/blog/reviving-maintainerati/</loc>
     <lastmod>2019-03-13T14:09:43+01:00</lastmod>
   </url>
@@ -20,11 +25,6 @@
   <url>
     <loc>https://maintainerati.ngrok.io/diversity-statement/</loc>
     <lastmod>2016-06-19T21:25:01-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://maintainerati.ngrok.io/blog/</loc>
-    <lastmod>2019-03-13T14:09:43+01:00</lastmod>
   </url>
   
   <url>
