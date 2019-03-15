@@ -2,9 +2,11 @@
 title: "Reviving Maintainerati"
 date: 2019-03-13T14:09:43+01:00
 draft: false
-featured_image: https://media.giphy.com/media/E86oiZojik4OQ/giphy.gif
+summary_image: https://media.giphy.com/media/E86oiZojik4OQ/giphy.gif
 description: We're putting the band back together
 ---
+
+![We're putting the band back together](https://media.giphy.com/media/E86oiZojik4OQ/giphy.gif)
 
 February 2017 saw a group of open source maintainers gathered at GitHub’s HQ in San Francisco, an event then repeated in London and Amsterdam. One left these events feeling both inspired and empowered.
 
