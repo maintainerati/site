@@ -3,38 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:8273/blog/</loc>
+    <loc>https://maintainerati.org/berlin-2019/</loc>
+    <lastmod>2019-03-18T10:22:23+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/blog/reviving-maintainerati/</loc>
     <lastmod>2019-03-13T14:09:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8273/blog/reviving-maintainerati/</loc>
-    <lastmod>2019-03-13T14:09:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8273/code-of-conduct/</loc>
+    <loc>https://maintainerati.org/code-of-conduct/</loc>
     <lastmod>2016-06-19T21:25:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8273/diversity-statement/</loc>
+    <loc>https://maintainerati.org/diversity-statement/</loc>
     <lastmod>2016-06-19T21:25:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8273/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8273/</loc>
+    <loc>https://maintainerati.org/blog/</loc>
     <lastmod>2019-03-13T14:09:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:8273/tags/</loc>
+    <loc>https://maintainerati.org/</loc>
+    <lastmod>2019-03-18T10:22:23+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maintainerati.org/tags/</loc>
     <priority>0</priority>
   </url>
   
