@@ -27,23 +27,31 @@ enableRobotsTXT = true
 
 [menu]
 
-  [[main]]
+  [[menu.main]]
   identifier = "blog"
-  name = "This is the blog section"
+  name = "Blog"
   title = "blog section"
   url = "/blog/"
-  weight = -110.0
+  weight = 0
 
-  [[main]]
+  [[menu.main]]
   identifier = "code-of-conduct"
-  name = "This is the CoC section"
-  title = "Code of Conduct"
+  name = "Code of Conduct"
+  title = "code of conduct"
   url = "/code-of-conduct/"
-  weight = -110.0
+  weight = 20
+
+  [[menu.main]]
+  identifier = "diversity-statement"
+  name = "Diversity Statement"
+  title = "diversity statement"
+  url = "/diversity-statement/"
+  weight = 10
+
 
 [params]
-  favicon = ""
-  description = "An unconference, open space for open source software maintainers."
+  favicon = "favicon.ico"
+  description = "An unconference for open source software maintainers."
   facebook = ""
   twitter = "https://twitter.com/Maintainerati"
   instagram = ""
