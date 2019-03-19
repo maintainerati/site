@@ -3,21 +3,13 @@ languageCode = "en-us"
 title = "Maintainerati"
 publishDir = "docs"
 
-# [params]
-  # description = "An unconference, open space for open source software maintainers."
-  # author = "The Maintainerati"
-  # date = "19 November, 2017"
-  # [params.location]
-    # name = "Xebia"
-    # city = "Amsterdam"
-    # url = "https://xebia.com/"
-
 
 theme = "gohugo-theme-ananke"
 # MetaDataFormat = "yaml"
 defaultContentLanguage = "en"
 paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-# googleAnalytics = ""
+googleAnalytics = "UA-136503208-1"
+
 enableRobotsTXT = true
 
 # [sitemap]
