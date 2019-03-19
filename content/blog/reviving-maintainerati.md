@@ -37,6 +37,8 @@ At inception, the Maintainerati 2019 Core Team consists of:
 
 - [Henry Zhu](https://github.com/hzoo) (region leader North America East Coast), a maintainer who passionate about the sustainability of open source software projects.
 
+- [Devon Zuegel](https://github.com/devonzuegel) (region leader North America West Coast) who is the product manager for the Open Source Economy team at GitHub. She is a writer and programmer based out of San Francisco, and she blogs about cooperation problems, market design, and urban economics.
+
 - [Geoffrey Huntley](https://github.com/ghuntley) (region leader Oceania), who is passionate about creating a new narrative and folks not accepting the status quo, and “burning out” as a result.
 
 - [Don Goodman-Wilson](https://github.com/DEGoodmanWilson) (GitHub liaison), a solo maintainer who also maintains an interest in the ways that OSS institutions form and evolve over time, their philosophical and ideological underpinnings, and their repercussions for everyone who depends upon OSS. 
