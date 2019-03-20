@@ -6,11 +6,24 @@ image_credit: Photo by Jonas Tebbe on Unsplash
 description: Friday 24 May, Spreespeicher, Berlin
 ---
 
-24 May 2019, all day<br/>
-<a href="https://goo.gl/maps/qktuE8DS4Bt">Spreespeicher, Berlin</a><br/>
+**Maintainerati** is an open space unconferencence for the community of open-source maintainers to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2428.7551944086094!2d13.446609715943795!3d52.50167084533963!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e5138e27adf%3A0xd039135266e7be32!2sSpreespeicher+Eventlocation!5e0!3m2!1sen!2suk!4v1553070575538" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div class="tc"><a class="f6 link dim br1 ba bw1 ph3 pv2 mb2 dib" style="color:#FF0044;" href="#0">RESERVE NOW</a></div>
 
-Organized by the new Maintainerati Core Team in collaboration with <a href="https://github.com">GitHub</a>, this next edition builds on past events, and aims to provide an open space for the community of maintainers in Western Europe to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
 
-Maintainerati is open to all, whether you are the leader of a popular open source project, or working alone: we’re all in this together. Join us and share your story, tell us about the challenges you face, and help us build a more vibrant, inclusive, and thriving open source community together.
+- **What** Maintainerati's first event of 2019
+- **When** 24 May 2019
+- **Where** [Spreespeicher](https://goo.gl/maps/qktuE8DS4Bt) conference center, Berlin
+- **How** RSVP here
+
+----
+
+Organized by the new Maintainerati Core Team in collaboration with [GitHub](https://github.com), this next edition builds on past events, and aims to provide an open space for the community of maintainers in Western Europe to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
+
+## Who can come?
+
+Maintainerati is open to all maintainers, whether you are the leader of a popular open source project, or working alone: we’re all in this together. Join us and share your story, tell us about the challenges you face, and help us build a more vibrant, inclusive, and thriving open source community together.
+
+## What is an Open Space Unconferencence?
+
+TODO
