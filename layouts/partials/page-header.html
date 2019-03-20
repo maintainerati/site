@@ -16,6 +16,10 @@
         {{ end }}
       </div>
     </div>
+    {{ $image_credit := .Params.image_credit }}
+    {{ if $image_credit }}
+    <div class="v-btm bg-white-60 black-30">{{ $image_credit }}</div>
+    {{ end }}
   </header>
 {{ else }}
   <header>
