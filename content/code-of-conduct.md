@@ -17,9 +17,9 @@ All attendees, speakers, sponsors and volunteers at Maintainerati are required t
 
 Contact the organizers: [coc@maintainerati.org](mailto:coc@maintainerati.org) or use the phone number found in the emails we send you.
 
-**NOTE:** The coc@ email address currently goes to Jessie Frazelle. If you have
-a problem with Jess specifically, or would rather someone else deals with the
-issue, please reach out to David Calavera, Seth Vargo, Thea Lamkin, or Katrina Owen.
+**NOTE:** The coc@ email address currently goes to the [Core Team](/core-team/). If you have
+a problem with someone on the Core Team specifically, or would rather someone else deals with the
+issue, please reach out to another team member directly.
 
 Long Version
 ------------
@@ -135,7 +135,7 @@ Contact the organizers via [coc@maintainerati.org](mailto:coc@maintainerati.org)
 or use the phone number found in the emails we send you.
 
 **NOTE:** The coc@ email address currently goes to Jessie Frazelle. If you have
-a problem with Jess specifically, or would rather someone else deals with the
-issue, please reach out to David Calavera, Seth Vargo, Thea Lamkin, or Katrina Owen.
+a problem with someone on the Core Team specifically, or would rather someone else deals with the
+issue, please reach out to another team member directly.
 
 ***We expect participants to follow these rules at all conference venues and conference-related social events.***
