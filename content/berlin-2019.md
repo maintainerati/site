@@ -26,6 +26,4 @@ Come because you care about open-source software, your community, and the people
 
 Maintainerati is open to all maintainers, whether you are the leader of a popular open source project, or working alone: we’re all in this together. Join us and share your story and help us build a more vibrant, inclusive, and thriving open source community together.
 
-## What is an Open Space Unconferencence?
-
-https://ti.to/the-maintainerati/berlin-2019
+<div class="tc"><a class="f6 link dim br1 ba bw1 ph3 pv2 mb2 dib" style="color:#FF0044;" href="https://ti.to/the-maintainerati/berlin-2019">RESERVE NOW</a></div>
