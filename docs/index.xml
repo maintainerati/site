@@ -6,10 +6,29 @@
     <description>Recent content on Maintainerati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2019 14:09:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2019 10:41:47 +0100</lastBuildDate>
     
 	<atom:link href="https://maintainerati.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Core Team</title>
+      <link>https://maintainerati.org/core-team/</link>
+      <pubDate>Thu, 21 Mar 2019 10:21:31 +0100</pubDate>
+      
+      <guid>https://maintainerati.org/core-team/</guid>
+      <description>2019 Maintainerati Organizers Core Team     Name Contact Details     GitHub Don Goodman-Wilson don@maintainerati.org   Event Facilitation Gawain Lynch gawain@maintainerati.org   Knowledge Production Erin Taylor erin@maintainerati.org   Safety &amp;amp; Diversity Maintainerati Core Team coc@maintainerati.org    Regional Teams    Region Section Knowledge Production     North America - West Devon Zuegel    North America - East Henry Zhu    Western Europe, UK &amp;amp; Ireland Gawain Lynch Erin Taylor   Oceania Geoffrey Huntley Alexia Maddox    Team Profiles (Alphabetical by last name)</description>
+    </item>
+    
+    <item>
+      <title>Maintainerati Berlin 2019</title>
+      <link>https://maintainerati.org/berlin-2019/</link>
+      <pubDate>Mon, 18 Mar 2019 10:22:23 +0100</pubDate>
+      
+      <guid>https://maintainerati.org/berlin-2019/</guid>
+      <description>Maintainerati is a one-day Open Space unconferencence for the community of open source maintainers to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
+GET YOUR TICKET  What Maintainerati&amp;rsquo;s first event of 2019 When 24 May 2019 Where Spreespeicher conference center, Berlin How RSVP for free  Organized by the new Maintainerati Core Team in collaboration with GitHub, this next edition builds on past events, and aims to provide an open space for the community of maintainers in Western Europe to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.</description>
+    </item>
     
     <item>
       <title>Reviving Maintainerati</title>
@@ -32,7 +51,7 @@ During these events, one important thing we learned is that maintainers need to 
 Short Version The Maintainerati is dedicated to a safe, inclusive, welcoming, and harassment-free conference experience for everyone.
 All attendees, speakers, sponsors and volunteers at Maintainerati are required to abide by the code of conduct.
 Need Help? Contact the organizers: coc@maintainerati.org or use the phone number found in the emails we send you.
-NOTE: The coc@ email address currently goes to Jessie Frazelle.</description>
+NOTE: The coc@ email address currently goes to the Core Team.</description>
     </item>
     
     <item>
