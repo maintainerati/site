@@ -24,7 +24,7 @@ enableRobotsTXT = true
   name = "Blog"
   title = "blog section"
   url = "/blog/"
-  weight = 0
+  weight = 100
 
   [[menu.main]]
   identifier = "code-of-conduct"
@@ -40,6 +40,12 @@ enableRobotsTXT = true
   url = "/diversity-statement/"
   weight = 10
 
+  [[menu.main]]
+  identifier = "berlin-2019"
+  name = "Berlin 2019"
+  title = "berlin 2019"
+  url = "/berlin-2019/"
+  weight = 1
 
 [params]
   favicon = "favicon.ico"
