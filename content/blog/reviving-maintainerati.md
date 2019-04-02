@@ -43,6 +43,8 @@ At inception, the Maintainerati 2019 Core Team consists of:
 
 - [Don Goodman-Wilson](https://github.com/DEGoodmanWilson) (GitHub liaison), a solo maintainer who also maintains an interest in the ways that OSS institutions form and evolve over time, their philosophical and ideological underpinnings, and their repercussions for everyone who depends upon OSS. 
 
+- [Alexia Maddox](https://github.com/alexiamaddox) (knowledge production: Oceania) is a sociologist passionate about working with digital cultures who are using and creating emerging technologies to support forms of social change and resistance. Her role is to support the development of meaningful insights from data collected for the project.
+
 We’re currently looking for team members to join as the community liaison for Safety & Diversity, and also people to join Erin in the Knowledge Production team.
 
 The Maintainerati 2020 core team will be decided upon in Q4 2019.

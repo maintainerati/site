@@ -44,7 +44,7 @@ Geoff has completed the full life cycle of rebuilding a community from the groun
 
 ## Alexia Maddox
 ### KP: Oceania [2019]
-[Alexia Maddox](https://github.com/alexiamaddox) is a digital sociologist specialising in the social impacts of the internet, online communities, social change and research methods. Her current research topics include cryptography, cryptocurrencies and blockchain, and applications of AI and machine learning to 3D modelling of social change processes. Alexia collaborates on engagement with digital communities and creative research practice, including interactive installations, to playfully engage people with the social problems of our times.
+[Alexia Maddox](https://github.com/alexiamaddox) is a sociologist passionate about working with digital cultures who are using and creating emerging technologies to support forms of social change and resistance. Her role is to support the development of meaningful insights from data collected for the project.
 
 ## Erin Taylor
 ### CL: KP [2019]
