@@ -37,3 +37,9 @@ We invite you to participate in Maintainerati, because you have something to con
 No speakers, no talks, no passive listening. An Open Space unconference allows you to participate as you want. You set the topics, you drive the conversation, you take away what you need to take away. Have something to share? Share it! Feeling inspired? Act on it! Not interested in the conversation? Move to another one, or start a new one of your own!
 
 [Read more about Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology).
+
+----
+
+# Our Sponsors
+
+<a href="https://github.com"><img src="/img/github-logo.png" alt="GitHub" style="width:400px;"/></a>
