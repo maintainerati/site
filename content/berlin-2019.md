@@ -18,7 +18,7 @@ description: Friday 24 May, Spreespeicher, Berlin
 
 ----
 
-Organized by the new Maintainerati Core Team in collaboration with [GitHub](https://github.com), this next edition builds on past events, and aims to provide an open space for the community of maintainers in Western Europe to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
+Organized by the new Maintainerati Core Team in collaboration with [GitHub](https://github.com), this next edition builds on past events, and aims to provide an open space for the community of maintainers in Europe to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
 
 ## Why come?
 
