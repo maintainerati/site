@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hugo -d dev --config config.toml,localhost.toml
+hugo -d dev --config config.toml,localhost.toml --watch
