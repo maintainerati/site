@@ -22,8 +22,9 @@ Organized by the new Maintainerati Core Team in collaboration with [GitHub](http
 * [What is an Open Space unconference?](#what-is-an-open-space-unconference)
 * [Schedule of Events](#schedule-of-events)
 * [Venue](#venue)
-* [Our Sponsors](#our-sponsors)
+* [Knowledge Production](#knowledge-production)
 * [Contact Us](#contact-us)
+* [Our Sponsors](#our-sponsors)
 
 ----
 
@@ -67,6 +68,23 @@ Maintainerati Berlin is an all-day event on Friday, 24 May 2019. To get the most
 Maintainerati Berlin is hosted at [Spreespeicher](https://www.spreespeicher-events.de/), a beautiful event space on the River Spree. Located in a historic environment - the former border between East and West Berlin- the Spreespeicher is easy-to-reach: taking the motorway A 10 as well as using public transport, the Stations Ostbahnhof and Ostkreuz are close by. Furthermore, the Spreespeicher can be reached by water. Hereto, there are numerous pick-up points for boats along the Spree. A range of hotels are close by the Spreespeicher.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9715.020755330363!2d13.440043664171966!3d52.50167094626896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e5138e27adf%3A0xd039135266e7be32!2sSpreespeicher+Eventlocation!5e0!3m2!1sen!2snl!4v1557320062363!5m2!1sen!2snl" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+# Knowledge Production
+
+Maintainerati events generate brilliant conversations, but these are largely lost once the day is over. 
+
+To preserve your hard work, the Maintainerati Knowledge Production Team will be doing some basic data collection at our Berlin event:
+
+- Observations
+- Pit stop interviews
+- Note-taking in discussion groups
+- Non-identifying photography (crowd shots)
+
+We will turn this data and turn it into interesting stuff to give back to the community, such as blog posts, presentations, reports and so on. 
+
+We follow standard guidelines for research with human subjects. We also comply with GDPR. We will avoid identifying individuals where possible and reasonable. You have the right to not participate, or to withdraw your consent at any time. Only approved researchers will have access to the data. 
+
+If you have any questions or concerns about this research, please contact the Knowledge Production lead, Erin Taylor (erin@maintainerati.org).
 
 # Contact Us
 
