@@ -18,6 +18,9 @@
       <h1 class="f1 athelas mb1">
         {{- .Title -}}
       </h1>
+      {{ if .Params.author }}
+      <h2><a href={{ printf "mailto:%s" $.Params.author.email }}>{{ $.Param "author.display_name" }}</a></h2>
+      {{ end }}
       {{ if .Description }}
       <h2>{{ .Description }}</h2>
       {{ end }}
