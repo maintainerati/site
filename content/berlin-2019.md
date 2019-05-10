@@ -96,4 +96,6 @@ We also have a [Code of Conduct](/code-of-conduct/). For any concerns or questio
 
 # Our Sponsors
 
-<a href="https://github.com"><img src="/img/github-logo.png" alt="GitHub" style="width:400px;"/></a>
+<div style="width:50%;float:left;"><a href="https://github.com"><img src="/img/github-logo.png" srcset="/img/github-logo.png 1x, /img/github-logo@2x.png 2x", alt="GitHub" /></a></div>
+<div style="width:50%;float:left;"><a href="https://opencollective.com/"><img src="/img/opencollective-logo.png"  srcset="/img/opencollective-logo.png 1x, /img/opencollective-logo@2x.png 2x",alt="Open Collective"/></a>
+</div>
