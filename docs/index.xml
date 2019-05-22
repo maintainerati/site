@@ -12,6 +12,20 @@
     
     
     <item>
+      <title>Data Protection Policy</title>
+      <link>https://maintainerati.org/data-protection-policy/</link>
+      <pubDate>Wed, 22 May 2019 10:58:19 +0200</pubDate>
+      
+      <guid>https://maintainerati.org/data-protection-policy/</guid>
+      <description>ol { list-style-type: lower-alpha; }  Last updated: 17 May 2019
+Definitions Project means Mainterati, hosted by Open Collective Europe ASBL, a registered non-profit.
+GDPR means the General Data Protection Regulation.
+Responsible Person means Gawain Lynch.
+Register of Systems means a register of all systems or contexts in which personal data is processed by the Project.
+1. Data protection principles The Project is committed to processing data in accordance with its responsibilities under the GDPR.</description>
+    </item>
+    
+    <item>
       <title>How You Can Help Build a Global Maintainerati Movement</title>
       <link>https://maintainerati.org/blog/how-you-can-help-build-a-global-maintainerati-movement/</link>
       <pubDate>Thu, 09 May 2019 13:25:03 +0200</pubDate>
