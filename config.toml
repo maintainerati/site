@@ -20,6 +20,13 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
+  identifier = "sponsors"
+  name = "Sponsors"
+  title = "sponsors section"
+  url = "/sponsors/"
+  weight = 100
+
+  [[menu.main]]
   identifier = "blog"
   name = "Blog"
   title = "blog section"
