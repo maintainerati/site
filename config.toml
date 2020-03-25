@@ -17,6 +17,10 @@ enableRobotsTXT = true
 #   priority = 0.5
 #   filename = "sitemap.xml"
 
+# for inline HTML
+[markup.goldmark.renderer]
+  unsafe = true
+
 [menu]
 
   [[menu.main]]

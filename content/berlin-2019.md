@@ -6,96 +6,21 @@ image_credit: Photo by Jonas Tebbe on Unsplash
 description: Friday 24 May, Spreespeicher, Berlin
 ---
 
-**Maintainerati** is a one-day Open Space unconferencence for the community of open source maintainers to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
+**Maintainerati Berlin 2019** was a one-day Open Space unconferencence for the community of open source maintainers to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
 
-<div class="tc"><a class="f6 link dim br1 ba bw1 ph3 pv2 mb2 dib" style="color:#FF0044;" href="https://ti.to/the-maintainerati/berlin-2019">GET YOUR TICKET</a></div>
+<p style="text-align: center"><b>Now available!</b> The Berlin 2019 Event Report and Session Notes:</p>
+
+<p style="text-align: center;"><a href="https://TODO.pdf" onClick="ga('send', 'pageview', '/virtual/reports/berlin-2019-event-report.pdf');"><img style="width:250px; display: inline; margin: 10px;" src="/img/thumbnails/Berlin 2019 Event Report - 250.png" alt="Event Report"></a><a href="https://TODO.pdf" onClick="ga('send', 'pageview', '/virtual/reports/berlin-2019-session-notes.pdf');"><img style="width:250px; display: inline; margin: 10px;" src="/img/thumbnails/Berlin 2019 Session Notes - 250.png" alt="Session Notes"></a></p>
 
 
-- **What** Maintainerati's first event of 2019
-- **When** 24 May 2019
-- **Where** [Spreespeicher](https://goo.gl/maps/qktuE8DS4Bt) conference center, Berlin
-- **How** [RSVP for free](https://ti.to/the-maintainerati/berlin-2019)
+Maintainerati Berlin 2019 took place on 24 May 2019 at the Spreespeicher Center in Berlin, Germany, in collaboration with [GitHub](https://github.com). Close to 80 maintainers came together from all over the world to share our experiences of running and maintaining digital infrastructure projects.  In attendance were representatives from a diverse range of digital infrastructure projects, including Babel (a key dependency of the World Wide Web), GitHub (which hosts a large percentage of the code for digital infrastructure), Node.js, Open Collective, Mozilla, Google, Kubernetes and Formidable, among others.  Maintainerati events are Open Space unconferences, in which the attendees choose the topics they wish to discuss. During the course of the day we ran nine parallel tracks with 29 distinct discussion sessions that form the basis for this report. Each discussion lasted an hour and was initiated by the person who proposed the topic. We took notes for each session, and distilled what we learned into a careful analysis full of concrete recommendations for maintainers, contributors, and supporters of open source, for you to download and read.
 
-Organized by the new Maintainerati Core Team in collaboration with [GitHub](https://github.com), this next edition builds on past events, and aims to provide an open space for the community of maintainers in Europe to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
-
-* [Why come?](#why-come)
-* [What is an Open Space unconference?](#what-is-an-open-space-unconference)
-* [Schedule of Events](#schedule-of-events)
-* [Venue](#venue)
-* [Knowledge Production](#knowledge-production)
-* [Contact Us](#contact-us)
-* [Our Sponsors](#our-sponsors)
-
-----
-
-# Why come?
-
-Come because you care about open source software, your community, and the people who depend upon the software you maintain. Share the challenges you face, the problems you've overcome, the best practices you've learned. Listen to the stories of others, and make your community better.
-
-Maintainerati is open to all maintainers, whether you are the leader of a popular open source project, or working alone: we’re all in this together. Join us and share your story and help us build a more vibrant, inclusive, and thriving open source community together.
-
-<div class="tc"><a class="f6 link dim br1 ba bw1 ph3 pv2 mb2 dib" style="color:#FF0044;" href="https://ti.to/the-maintainerati/berlin-2019">GET YOUR TICKET</a></div>
-
-The Berlin event is being run in conjunction with [GitHub Satellite](https://githubsatellite.com/).
-
-# What is an Open Space unconference?
-
-We invite you to participate in Maintainerati, because you have something to contribute. Open Spaces allow us to focus on what's important to you, the attendees, and provides a structure for you and your fellow attendees to drive the agenda.
-
-No speakers, no talks, no passive listening. An Open Space unconference allows you to participate as you want. You set the topics, you drive the conversation, you take away what you need to take away. Have something to share? Share it! Feeling inspired? Act on it! Not interested in the conversation? Move to another one, or start a new one of your own!
-
-[Read more about Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology).
-
-# Schedule of Events
-
-Maintainerati Berlin is an all-day event on Friday, 24 May 2019. To get the most out of Maintainerati, please aim to arrive in the morning, and to stay the full day
-
-| Time | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Activity |
-| :--- | --- | --- |
-| 08:00 -- 09:00 | | Registration / Breakfast |
-| 09:00 -- 09:30 | | _Team Room:_ Introduction to Maintainerati |
-| 09:30 -- 10:30 | | _Team Room:_ Brainstorming Session Scheduling |
-| 10:30 -- 11:30 | | _Open Spaces:_ Open Spaces: Session 1 |
-| 11:30 -- 12:30 | | _Open Spaces:_ Open Spaces: Session 2 |
-| 12:30 -- 13:30 | | Lunch |
-| 13:30 -- 14:30 | | _Open Spaces:_ Open Spaces: Session 3 |
-| 14:30 -- 15:30 | | _Open Spaces:_ Open Spaces: Session 4 |
-| 15:30 -- 17:00 | | _Team Room:_ Debrief |
-| 17:00 -- 18:00 | | Social Mingling |
-
-# Venue
-
-Maintainerati Berlin is hosted at [Spreespeicher](https://www.spreespeicher-events.de/), a beautiful event space on the River Spree. Located in a historic environment - the former border between East and West Berlin- the Spreespeicher is easy-to-reach: taking the motorway A 10 as well as using public transport, the Stations Ostbahnhof and Ostkreuz are close by. Furthermore, the Spreespeicher can be reached by water. Hereto, there are numerous pick-up points for boats along the Spree. A range of hotels are close by the Spreespeicher.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9715.020755330363!2d13.440043664171966!3d52.50167094626896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e5138e27adf%3A0xd039135266e7be32!2sSpreespeicher+Eventlocation!5e0!3m2!1sen!2snl!4v1557320062363!5m2!1sen!2snl" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-# Knowledge Production
-
-Maintainerati events generate brilliant conversations, but these are largely lost once the day is over. 
-
-To preserve your hard work, the Maintainerati Knowledge Production Team will be doing some basic data collection at our Berlin event:
-
-- Observations
-- Pit stop interviews
-- Note-taking in discussion groups
-- Non-identifying photography (crowd shots)
-
-We will turn this data and turn it into interesting stuff to give back to the community, such as blog posts, presentations, reports and so on. 
-
-We follow standard guidelines for research with human subjects. We also comply with GDPR. We will avoid identifying individuals where possible and reasonable. You have the right to not participate, or to withdraw your consent at any time. Only approved researchers will have access to the data. 
-
-If you have any questions or concerns about this research, please contact the Knowledge Production lead, Erin Taylor (erin@maintainerati.org).
-
-# Contact Us
-
-If you have any questions or concerns, please feel free to reach out to us via email at events@maintainerati.org.
-
-We also have a [Code of Conduct](/code-of-conduct/). For any concerns or questions about the Code of Conduct, or to report unacceptable behavior, please follow the directions there. By attending a Maintainerati event, you agree to abide by our Code of Conduct.
+The contents of the Event Report and Session Notes are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you have any requests, questions, or concerns about this report, please feel free to reach out to us via email at events@maintainerati.org.
 
 ----
 
 # Our Sponsors
 
 <div style="width:50%;float:left;"><a href="https://github.com"><img src="/img/github-logo.png" srcset="/img/github-logo.png 1x, /img/github-logo@2x.png 2x", alt="GitHub" /></a></div>
-<div style="width:50%;float:left;"><a href="https://opencollective.com/"><img src="/img/opencollective-logo.png"  srcset="/img/opencollective-logo.png 1x, /img/opencollective-logo@2x.png 2x",alt="Open Collective"/></a>
+<div style="width:50%;float:left;"><a href="https://opencollective.com/"><img src="/img/opencollective-logo.png" srcset="/img/opencollective-logo.png 1x, /img/opencollective-logo@2x.png 2x",alt="Open Collective"/></a>
 </div>
