@@ -4,6 +4,8 @@ date: 2019-03-18T10:22:23+01:00
 featured_image: img/jonas-tebbe-1392281-unsplash.jpg
 image_credit: Photo by Jonas Tebbe on Unsplash
 description: Download the Berlin 2019 Event Report
+images:
+- https://res.cloudinary.com/maintainerati/image/upload/v1585302343/Berlin%202019/Twitter_Card_uje5hp.png
 ---
 
 **Maintainerati Berlin 2019** was a one-day Open Space unconferencence for the community of open source maintainers to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
