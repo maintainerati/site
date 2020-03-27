@@ -1,7 +1,8 @@
 ---
 title: "Maintainerati Berlin 2019"
 date: 2019-03-18T10:22:23+01:00
-featured_image: https://res.cloudinary.com/maintainerati/image/upload/c_scale,h_800/v1585241033/Berlin%202019/Berlin_2019_Event_Report_rpcxtg.png
+featured_image: img/jonas-tebbe-1392281-unsplash.jpg
+image_credit: Photo by Jonas Tebbe on Unsplash
 description: Download the Berlin 2019 Event Report
 ---
 
