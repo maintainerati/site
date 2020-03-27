@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maintainerati</title>
@@ -62,8 +62,10 @@ At the end of the day, attendees leave feeling full of ideas, with renewed enthu
       <pubDate>Mon, 18 Mar 2019 10:22:23 +0100</pubDate>
       
       <guid>https://maintainerati.org/berlin-2019/</guid>
-      <description>Maintainerati is a one-day Open Space unconferencence for the community of open source maintainers to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
-GET YOUR TICKET  What Maintainerati&amp;rsquo;s first event of 2019 When 24 May 2019 Where Spreespeicher conference center, Berlin How RSVP for free  Organized by the new Maintainerati Core Team in collaboration with GitHub, this next edition builds on past events, and aims to provide an open space for the community of maintainers in Europe to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.</description>
+      <description>Maintainerati Berlin 2019 was a one-day Open Space unconferencence for the community of open source maintainers to gather, present, and discuss the unique and pressing challenges they see in a face-to-face setting.
+Now available! The Berlin 2019 Event Report and Session Notes:
+
+The Event Report presents an analysis of 12 &amp;ldquo;Key Challenges and Lessons&amp;rdquo; that occurred repeatedly across the different sessions. For each one we describe what it is, what participants think causes it, and their ideas for how to solve it.</description>
     </item>
     
     <item>
@@ -97,7 +99,7 @@ NOTE: The coc@ email address currently goes to the Core Team.</description>
       
       <guid>https://maintainerati.org/diversity-statement/</guid>
       <description>(Adapted from the Open Source Feels Diversity Statement)
-Platitudes are cheap. We&amp;rsquo;ve all heard conferences and communities say they&amp;rsquo;re committed to &amp;ldquo;diversity&amp;rdquo; and &amp;ldquo;tolerance&amp;rdquo; without ever getting specific, so here&amp;rsquo;s our stance on it:
+Platitudes are cheap. We&#39;ve all heard conferences and communities say they&#39;re committed to &amp;ldquo;diversity&amp;rdquo; and &amp;ldquo;tolerance&amp;rdquo; without ever getting specific, so here&#39;s our stance on it:
 We welcome you.
 We welcome people of any gender identity or expression, race, ethnicity, size, nationality, sexual orientation, ability level, neurotype, religion, elder status, family structure, culture, subculture, political opinion, identity, and self-identification. We welcome activists, artists, bloggers, crafters, dilettantes, musicians, photographers, readers, writers, ordinary people, extraordinary people, and everyone in between.</description>
     </item>
