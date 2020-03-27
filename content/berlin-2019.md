@@ -20,6 +20,8 @@ The _Session Notes_ are a record of all 29 discussion sessions that took place o
 
 The contents of both the _Event Report_ and _Session Notes_ are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you have any requests, questions, or concerns about this report, please feel free to reach out to us via email at events@maintainerati.org.
 
+[Read the blog post for more details.](/blog/berlin-2019-event-report/)
+
 
 ## About the event
 
