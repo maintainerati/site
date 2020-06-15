@@ -14,6 +14,7 @@ export const Palette = () => (
   }}>
   
   {[
+      { name: 'Onyx',             hex: '#3a3a3f', fontHex: '#fff' },
       { name: 'Gray X 11 Gray',   hex: '#bababa' },
       { name: 'Gainsboro',        hex: '#e0e0e0' },
       { name: 'Cultured',         hex: '#f4f4f4' },
@@ -24,6 +25,7 @@ export const Palette = () => (
   ].map(color => (
       <div style={{
         flex: '1',
+        color: color.fontHex || '#000',
         display: 'table',
         textAlign: 'center', 
         backgroundColor: color.hex, 
