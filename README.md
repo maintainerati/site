@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/maintainerati/site.svg?branch=master)](https://travis-ci.org/maintainerati/site)
 
-This repo holds the source code for the Maintainerati website.
+This repository holds the source code for the Maintainerati website.
 
 The site uses [`hugo`](https://gohugo.io/) and is hosted on
 [netlify](https://www.netlify.com/). Pull requests are tested on netlify
