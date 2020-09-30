@@ -21,7 +21,19 @@ Last updated: 17 May 2019
 
 ## 1. Data protection principles
 
-The Project is committed to processing data in accordance with its responsibilities under the GDPR. 
+The Project is committed to processing data in accordance with its responsibilities under the GDPR.
+// The GDPR (General Data Protection Regulation) outlines six data protection principles that summarise its many requirements.
+
+These are an essential resources for those trying to understanding how to achieve compliance. Indeed, small organisations, which often lack the resources to appoint data protection experts to guide them through compliance, may find them particularly useful.
+ let us have  a look at each one of the following here 
+ 1.  Lawfulness, fairness and transparency
+ 2.  Purpose limitation
+ 3. Data minimisation
+ 4.  Accuracy
+ 5.  Storage limitation
+ 6.  Integrity and confidentiality
+
+
 
 Article 5 of the GDPR requires that personal data shall be:
 
