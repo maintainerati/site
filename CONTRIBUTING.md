@@ -91,7 +91,7 @@ To use the `Makefile` it's as simple as:
 ```console
 $ make
 ```
-## Sign your work
+## Sign-off your work
 
 The sign-off is a simple line at the end of the explanation for the
 patch, which certifies that you wrote it or otherwise have the right to
