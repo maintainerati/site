@@ -1,4 +1,4 @@
-# Maintainerati Website
+# Maintainerati Website  -An amazing website
 
 [![Build Status](https://travis-ci.org/maintainerati/site.svg?branch=master)](https://travis-ci.org/maintainerati/site)
 
