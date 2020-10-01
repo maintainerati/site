@@ -1,4 +1,4 @@
-# Maintainerati Website
+# MaintainTheWorld 
 
 [![Build Status](https://travis-ci.org/maintainerati/site.svg?branch=master)](https://travis-ci.org/maintainerati/site)
 
